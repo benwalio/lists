@@ -1,0 +1,15 @@
+# Title: benwal/allow/hosts
+#
+# This hosts file is a personalized allow hosts from benwal
+#
+# Date: 23 Jan 2023
+#
+# Fetch the latest version of this file: 
+#
+# ===============================================================
+
+0.0.0.0 plex.direct
+0.0.0.0 integromat.com
+0.0.0.0 protonmail.com
+0.0.0.0 protonmail.ch
+0.0.0.0 solitaire.prod.cardsuite.ext.mobilityware.com
